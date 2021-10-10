@@ -4,7 +4,7 @@
 
 <a href="https://asifcreative.github.io/MobileShop-Admin/html/" rel="nofollow">Dashboard layout</a>
 
-<a href="https://asifcreative.github.io/MobileShop-Admin/htmlforms.html/" rel="nofollow">Add Product layout</a>
+<a href="https://asifcreative.github.io/MobileShop-Admin/html/forms.html/" rel="nofollow">Add Product layout</a>
 
 
 ### <a href="http://asifjaved.codemindz.com/" rel="nofollow">Portfolio</a>
