@@ -8,8 +8,7 @@ https://asifcreative.github.io/MobileShop-Admin/html/
 
 ### Login
 
-* [Html login layout](#https://asifcreative.github.io/MobileShop-Admin/html/login.html)
-* 
+<a href="https://asifcreative.github.io/MobileShop-Admin/html/login.html)" rel="nofollow">Html login layout</a>
 
 <img src="https://raw.githubusercontent.com/Asifcreative/MobileShop-Admin/main/html/images/login.PNG" alt="drawing" width="300"/>
 
