@@ -8,9 +8,9 @@ https://asifcreative.github.io/MobileShop-Admin/html/
 
 ### Login
 
-Html layout
+[https://asifcreative.github.io/MobileShop-Admin/html/login.html]['Login Html layot']
 
-https://asifcreative.github.io/MobileShop-Admin/html/login.html
+
 
 <img src="https://raw.githubusercontent.com/Asifcreative/MobileShop-Admin/main/html/images/login.PNG" alt="drawing" width="300"/>
 
