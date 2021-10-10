@@ -1,8 +1,11 @@
 # MobileShop-Admin
 
-<a href="https://asifcreative.github.io/MobileShop-Admin/html/login.html" rel="nofollow">Html login layout</a>
+<a href="https://asifcreative.github.io/MobileShop-Admin/html/login.html" rel="nofollow">login layout</a>
 
-<a href="https://asifcreative.github.io/MobileShop-Admin/html/" rel="nofollow">Html Dashboard layout</a>
+<a href="https://asifcreative.github.io/MobileShop-Admin/html/" rel="nofollow">Dashboard layout</a>
+
+<a href="https://asifcreative.github.io/MobileShop-Admin/htmlforms.html/" rel="nofollow">Add Product layout</a>
+
 
 ### <a href="http://asifjaved.codemindz.com/" rel="nofollow">Portfolio</a>
 
